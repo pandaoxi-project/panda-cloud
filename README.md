@@ -33,10 +33,11 @@ On the client side, the program has low requirements for computer configuration.
 
 > Client quick configuration tutorial:
 (1) For example, open the command prompt and enter the following code:
-```powershell
+```
 > pip install requests
 > pip install easygui
 > ```
+> 
 > Without them, the program will not work properly.
 
 If you are all right, congratulations on the completion of the client installation.
